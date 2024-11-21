@@ -15,7 +15,7 @@ With the use of formulas, I was able to calculate the percentage win by medal fo
 * Formula 2 = [(No of Silver medals)/(Total medals)] * 100
 * Formula 3 = [(No of Bronze medals)/(Total medals)] * 100
 ### Step 4: Data Visualization
-I made use of Tableau in creating the dashboard for this project. After importing my Excel Worksheet into Tableau Public, I made sure to show the connections between the tables before I started visualizing. Visual insights were gotten by using KPIs to show total countries, rank, total athletes, number of gold, silver and bronze medals won by countries. Other visuals include bar charts showing the distribution of various medals by country, a map showing the distribution of number of athletes by country and a table showing the total number of medals won by the various countries. I made use of filter for country for proper extraction of information from the visuals. 
+I made use of Tableau in creating the dashboard for this project. After importing my Excel Worksheet into Tableau Public, I made sure to show the connections between the tables before I started visualizing. Visual insights were gotten by using KPIs to show total countries, rank, total athletes, number of gold, silver and bronze medals won by countries. Other visuals include bar charts showing the distribution of various medals by country, a map showing the distribution of number of athletes by country and a table showing the total number of medals won by the various countries. I made use of filter for country to aid extraction of desired information from the visuals. 
 
 * Here is a link to my interactive Tableau Public project:
   [Tableau Public Project](https://public.tableau.com/app/profile/taiye.arokoyu/viz/shared/X27Q3X8Q4)
