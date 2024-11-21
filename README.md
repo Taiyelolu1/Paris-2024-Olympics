@@ -20,8 +20,7 @@ I made use of Tableau in creating the dashboard for this project. After importin
 * Here is a link to my interactive Tableau Public project:
   [Tableau Public Project](https://public.tableau.com/app/profile/taiye.arokoyu/viz/shared/X27Q3X8Q4)
 * Or view a snapshot of the project:
-  [Tableau Visualization](file:///C:/Users/Taiyelolu/Downloads/Paris%202024%20Olympics%20Dashboard.pdf)
-  [Tableau Visualization](![Paris 2024 Olympics Dashboard](https://github.com/user-attachments/assets/e5ef3f88-e264-476a-9fb7-2bcec2ce3ef0)
+  (https://github.com/user-attachments/assets/e5ef3f88-e264-476a-9fb7-2bcec2ce3ef0)
 
 ### Key Insights
 1. They were a total of 206 countries that participated in the Paris 2024 Olympics.
