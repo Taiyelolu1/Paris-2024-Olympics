@@ -25,5 +25,5 @@ I made use of Tableau in creating the dashboard for this project. After importin
 ### Key Insights
 1. They were a total of 206 countries that participated in the Paris 2024 Olympics.
 2. They were a total of 10,751 athletes who participated in the Paris 2024 Olympics of which United states had the highest number of participants (592).
-3. United States had the highest total number of medals won (126) of which Gold (40), Silver (44), and Bronze (42), which were all the highest in the various categories.
+3. United States had the highest total number of medals won (126) of which Gold (40), Silver (44), and Bronze (42), which were all the highest in their various categories.
 4. United States came in ranking first position, China second and Japan Third. 
